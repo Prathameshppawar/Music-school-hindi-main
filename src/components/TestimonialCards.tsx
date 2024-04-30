@@ -42,7 +42,7 @@ function MusicSchoolTestimonials() {
             <div className="w-full max-w-6xl">
             <InfiniteMovingCards
                 items={musicSchoolTestimonials}
-                direction="right"
+                direction="left"
                 speed="slow"
       />
             </div>
